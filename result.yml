@@ -1,0 +1,5 @@
+resolutions:
+  vulnerabilities:
+  - id: CVE-2020-11023
+    reason: Not Applicable
+    comments: This security vulnerability is not currently applicable
