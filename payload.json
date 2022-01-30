@@ -1,0 +1,33 @@
+{
+    "securityOverrides":[
+       {
+          "securityOverrideId":"b318b2555bac47089d00bdad1eb11a4c",
+          "hash":"894ebaea50d38ef8776d",
+          "referenceId":"CVE-2020-11023",
+          "status":"Not Applicable",
+          "comment":"This security vulnerability is not currently applicable",
+          "owner":{
+             "ownerPublicId":"nemesis",
+             "ownerId":"bef62081db3140b49274bb807bbbc60e",
+             "ownerName":"Nemesis",
+             "ownerType":"APPLICATION"
+          },
+          "currentlyAffectedComponents":[
+             {
+                "packageUrl":"pkg:a-name/jQuery@1.6.4",
+                "hash":"894ebaea50d38ef8776d",
+                "componentIdentifier":{
+                   "format":"a-name",
+                   "coordinates":{
+                      "name":"jQuery",
+                      "qualifier":"",
+                      "version":"1.6.4"
+                   }
+                },
+                "proprietary":false,
+                "thirdParty":false
+             }
+          ]
+       }
+    ]
+ }
